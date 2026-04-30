@@ -1,0 +1,106 @@
+
+button {background-color: coral;}
+ul.Menu {
+list-style-type: none;
+margin: 0;
+overflow: hidden;
+padding: 0;
+background-color: #bd2f13;
+    font-size: 27px ;
+}
+li.qwer {
+float: left
+}
+li.qwer a {
+  display: block;
+  color: #cfc1be;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+li.qwer a:hover {
+background-color: #942712;
+}
+h1 {float: center;}
+h2 {align: center;}
+
+li.qwe {
+    float: left
+}
+
+li.qwe a {
+  display: block;
+  color: #bd2f13;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+
+li.qwe a:hover {
+background-color: #942712;
+  color: #cfc1be;
+}
+
+
+
+.Hello {
+  
+	display: inline-block;
+	text-align: center;
+	font-size: 50pt;
+
+}
+
+abbr {text-decoration: none;}
+
+.BRC {
+	font-size: 100px;
+	background-color: #bd2f13;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.first-page {
+  display: flex;
+  align-items: center;
+}	
+
+.underlined {
+    text-decoration: underline;
+}
+
+p {
+    font-size: 25px ;
+    margin: 7px;
+}
+
+.Heading {
+        font-size: 50px ;
+}
+
+.around {
+    float: left;
+    margin: 5px;
+}
+ul{
+    font-size: 25px ;
+        margin: 0px;
+
+}
+
+ul.none {
+        list-style-type: none;
+}
+
+
+
+.Me a:hover {
+    
+
+}
+
+
+table, th, td {
+  border:1px solid black;
+}
